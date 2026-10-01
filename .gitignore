@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# AWS credentials
+*.pem
+credentials
+
+# Logs
+*.log
+
+# Data files
+*.csv
+*.parquet
